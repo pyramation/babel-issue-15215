@@ -11,3 +11,8 @@ https://github.com/babel/babel/issues/15036
 yarn
 yarn test:watch
 ```
+
+## files of interest
+
+https://github.com/pyramation/babel-issue-15036/blob/main/__tests__/__snapshots__/pure.test.ts.snap
+https://github.com/pyramation/babel-issue-15036/blob/main/__tests__/pure.test.ts
