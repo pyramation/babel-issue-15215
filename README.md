@@ -14,5 +14,5 @@ yarn test:watch
 
 ## files of interest
 
-[output snapshot](https://github.com/pyramation/babel-issue-15036/blob/main/__tests__/__snapshots__/pure.test.ts.snap)
-[test file with AST](https://github.com/pyramation/babel-issue-15036/blob/main/__tests__/pure.test.ts)
+- [output snapshot](https://github.com/pyramation/babel-issue-15036/blob/main/__tests__/__snapshots__/pure.test.ts.snap)
+- [test file with AST](https://github.com/pyramation/babel-issue-15036/blob/main/__tests__/pure.test.ts)
